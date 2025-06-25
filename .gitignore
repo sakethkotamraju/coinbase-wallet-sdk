@@ -43,3 +43,6 @@ examples/**/yarn.lock
 .next
 
 /**/tsconfig.tsbuildinfo
+
+jwks.json
+.well-known/
